@@ -1,0 +1,39 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-image: url('../simple-w/developer-portfolio-master/images/top-banner.png');
+    background-repeat: no-repeat;
+}
+
+.orange-color {
+    color: chocolate;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 50%;
+    padding: 5px;
+}
+
+.half-width h1 {
+    font-size: 50px;
+}
+
+.half-width img {
+    width: 80%;
+
+}
+
+.buttom {
+    background-color: chocolate;
+    padding: 10px 15px;
+    text-decoration: none;
+    border-radius: 5px;
+    color: black;
+}
+
+.buttom :hover {
+    background-color: chartreuse;
+}
