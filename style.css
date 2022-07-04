@@ -76,9 +76,14 @@ body {
 }
 
 #Full-Stack-Web-Developer {
-    border-left: 7px solid orange;
+    border-left: 7px solid tomato;
 }
 
 #Baby-Web-Developer {
     border-left: 7px solid blue;
+}
+
+footer p {
+    text-align: center;
+    padding-top: 100px;
 }
